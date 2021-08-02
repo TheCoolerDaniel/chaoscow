@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chaoscow
+- 👋 Hi, I’m @TheCoolerDaniel
 - 👀 I’m interested in: Game Development, Music Production
 - 🌱 I’m currently learning: Game Design, Security, Machine Learning
 - 💞️ I’m looking to collaborate on: Video Games
